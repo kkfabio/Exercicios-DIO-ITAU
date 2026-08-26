@@ -1,3 +1,5 @@
+package Exercicios;
+
 import java.util.Scanner;
 
 public class Exercicio6 {
@@ -16,7 +18,7 @@ public class Exercicio6 {
             if (num1 >= num2) {
                 System.out.printf("Erro, o segundo número deve ser maior que o %s\n", num1);
             }
-        } while (num2 <= num1);
+        } while (num1 >= num2);
 
         String opcao = "";
         do {
