@@ -1,4 +1,4 @@
-package Exercicios;
+package ExerciciosBasicos;
 
 import java.time.OffsetDateTime;
 import java.util.Scanner;
